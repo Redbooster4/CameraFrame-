@@ -42,8 +42,7 @@ Follow these steps to set up and run the project.
    ```
 
 2. Interact with the live camera feed:  
-   - Press `g` to toggle grayscale mode.  
-   - Press `e` to apply edge detection.  
+   - Press `g` to toggle grayscale mode.    
    - Press `s` to save the current frame.  
    - Press `q` to quit the program.  
 
