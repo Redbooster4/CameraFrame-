@@ -6,7 +6,7 @@ if not camera.isOpened():
     exit()
 print("Press 'g' to toggle grayscale mode.")    
 print("Press 's' to save the current frame.")  
-print("Press 'o' to get only the edges of your frame.")
+print("Press 'e' to get only the edges of your frame.")
 print("Press 'q' to quit the program.")
 is_grayscale = False
 is_edges = False
