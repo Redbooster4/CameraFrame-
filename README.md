@@ -44,7 +44,9 @@ Follow these steps to set up and run the project.
 2. Interact with the live camera feed:  
    - Press `g` to toggle grayscale mode.    
    - Press `s` to save the current frame.  
+   - Press `o` to get only the edges of your frame.
    - Press `q` to quit the program.  
+ 
 
 ---
 
