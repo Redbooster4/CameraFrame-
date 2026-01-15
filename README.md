@@ -24,7 +24,7 @@ Follow these steps to set up and run the project.
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/camera-frame-project.git
+   git clone https://github.com/Redbooster4/CameraFrame-
    cd camera-frame-project
    ```
 
